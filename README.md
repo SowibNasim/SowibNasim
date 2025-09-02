@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c/c++
 - 📫 How to reach me through email
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i am noting
+- ⚡ Fun fact: I love working out.
 
 <!---
 boom 
